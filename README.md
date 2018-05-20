@@ -11,3 +11,7 @@ slt.py is a [python script](https://github.com/deyixtan/slt-patcher) that patche
 ## USAGE
 
 > python slt.py <"sublime_text.exe file path">
+
+## MANUAL PATCHING
+
+[Click here](https://gist.github.com/deyixtan/6822b66ad7792ab2580ba37c450ae79c#gistcomment-2595230)

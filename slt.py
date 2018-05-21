@@ -24,7 +24,7 @@ class Patcher:
             self.hex_dump = bytearray(binascii.hexlify(file.read()))
 
     def patch_file(self):
-        if self.__is_initial_license_index_valid() and self.__is_persistent_license_index_valid and self.__is_update_index_valid():
+        if self.__is_initial_license_index_valid() and self.__is_persistent_license_index_valid() and self.__is_update_index_valid():
             # bypass & patch file with changes
             self.__patch_initial_license()
             self.__patch_persistent_license()

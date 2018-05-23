@@ -11,8 +11,17 @@ slt.py is a [python script](https://github.com/deyixtan/slt-patcher) that patche
 
 ## USAGE
 
-> python slt.py <"sublime text executable file path">
+> python slt.py <"sublime_text file path">
 
 ## MANUAL PATCHING
+
+### Replacing Executable
+
+1. Back up your original Sublime Text Editor executable file. 
+2. Download the desired patched executable from the "patched_executables" folder.
+3. Copy the downloaded file into your own Sublime Text directory.
+4. Run the executable file.
+
+### Hex Edit:
 
 [Click here](https://gist.github.com/deyixtan/6822b66ad7792ab2580ba37c450ae79c#gistcomment-2595230)

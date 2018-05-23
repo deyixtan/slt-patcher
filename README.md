@@ -7,10 +7,11 @@ slt.py is a [python script](https://github.com/deyixtan/slt-patcher) that patche
 |         Builds Supported         | Operating System |
 | -------------------------------- | ---------------- |
 | 3170 onwards, both stable & dev  | Windows 64-bit   |
+| Only 3176                        | Linux 64-bit     |
 
 ## USAGE
 
-> python slt.py <"sublime_text.exe file path">
+> python slt.py <"sublime text executable file path">
 
 ## MANUAL PATCHING
 

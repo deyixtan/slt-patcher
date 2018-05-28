@@ -2,7 +2,7 @@
 
 slt.py is a [python script](https://github.com/deyixtan/slt-patcher) that patches software updates and license checks on Sublime Text 3 Editors.
 
-## COMPATIBILITY
+## SCRIPT COMPATIBILITY
 
 |         Builds Supported         | Operating System |
 | -------------------------------- | ---------------- |
@@ -11,7 +11,7 @@ slt.py is a [python script](https://github.com/deyixtan/slt-patcher) that patche
 
 ## USAGE
 
-> python slt.py <"sublime_text file path">
+> python slt.py <"sublime text executable file path">
 
 ## MANUAL PATCHING
 
